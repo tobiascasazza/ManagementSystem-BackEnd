@@ -1,35 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tcasazza\\OneDrive - ANDREANI LOGISTICA SA\\Escritorio\\Proyectos\\ProyectoFinalCoderCompleto\\Back End\\ProyectoFinalCoderHouse.csproj": {}
+    "C:\\Users\\tobia\\OneDrive\\Documentos\\GitHub\\SistemaGestion-BackEnd\\ProyectoFinalCoderHouse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tcasazza\\OneDrive - ANDREANI LOGISTICA SA\\Escritorio\\Proyectos\\ProyectoFinalCoderCompleto\\Back End\\ProyectoFinalCoderHouse.csproj": {
+    "C:\\Users\\tobia\\OneDrive\\Documentos\\GitHub\\SistemaGestion-BackEnd\\ProyectoFinalCoderHouse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tcasazza\\OneDrive - ANDREANI LOGISTICA SA\\Escritorio\\Proyectos\\ProyectoFinalCoderCompleto\\Back End\\ProyectoFinalCoderHouse.csproj",
+        "projectUniqueName": "C:\\Users\\tobia\\OneDrive\\Documentos\\GitHub\\SistemaGestion-BackEnd\\ProyectoFinalCoderHouse.csproj",
         "projectName": "ProyectoFinalCoderHouse",
-        "projectPath": "C:\\Users\\tcasazza\\OneDrive - ANDREANI LOGISTICA SA\\Escritorio\\Proyectos\\ProyectoFinalCoderCompleto\\Back End\\ProyectoFinalCoderHouse.csproj",
-        "packagesPath": "C:\\Users\\tcasazza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tcasazza\\OneDrive - ANDREANI LOGISTICA SA\\Escritorio\\Proyectos\\ProyectoFinalCoderCompleto\\Back End\\obj\\",
+        "projectPath": "C:\\Users\\tobia\\OneDrive\\Documentos\\GitHub\\SistemaGestion-BackEnd\\ProyectoFinalCoderHouse.csproj",
+        "packagesPath": "C:\\Users\\tobia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tobia\\OneDrive\\Documentos\\GitHub\\SistemaGestion-BackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tcasazza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tobia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.pkg.github.com/architecture-it/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -74,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,7 +8,7 @@ namespace ProyectoFinalCoderHouse.ADO.NET
 {
     public static class UsuarioHandler
     {
-        public static string connectionString = "Data Source=(localdb)\\Servidor Ejercicio;Initial Catalog=SistemaGestion;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+        public static string connectionString = "Data Source=TOBIASCASAZZA;Initial Catalog=SistemaGestion;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
         public static List<Usuario> GetUsuarios(DataTable table)
         {
             List<Usuario> usuarios = new List<Usuario>();

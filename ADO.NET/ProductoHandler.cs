@@ -8,7 +8,7 @@ namespace ProyectoFinalCoderHouse.ADO.NET
 {
     public static class ProductoHandler
     {
-        public static string ConnectionString = "Data Source=(localdb)\\Servidor Ejercicio; Initial Catalog = SistemaGestion; Integrated Security = True; Connect Timeout = 30; Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+        public static string ConnectionString = "Data Source=TOBIASCASAZZA;Initial Catalog=SistemaGestion;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
         public static List<Producto> GetProductos(int id)
         {
             List<Producto> productos = new List<Producto>();
